@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "titre": "Star Wars: The Empire Strikes Back",
+    "description": "Darth Vader is adamant about turning Luke Skywalker to the dark side.",
+    "acteurs": [
+      {
+        "id": 2,
+        "nom": "Ford",
+        "prenom": "Harrison"
+      },
+      {
+        "id": 3,
+        "nom": "Hamill",
+        "prenom": "Mark"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Star Wars2: The Empire Strikes Back again",
+    "description": "Darth Vader is adamant about turning Luke Skywalker to the dark side.",
+    "acteurs": [
+      {
+        "id": 5,
+        "nom": "Ford1",
+        "prenom": "Harrison1"
+      },
+      {
+        "id": 6,
+        "nom": "Hamill1",
+        "prenom": "Mark1"
+      }
+    ]
+  }
+]
